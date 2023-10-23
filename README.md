@@ -1,9 +1,9 @@
 # Horiseon Homework project
-    Project requiring refactored existing code.
+    Project requiring refactoring existing code.
 
 ## Description
 
-    The project adds accessablility code, semantic HTML elements and a modified title.
+    The project adds accessablility code, semantic HTML elements and a modified title.  The overall format was improved in various places.
 
 ## Installing
 
