@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    padding: 0;
+    /* removed padding element */
     margin: 0;
 }
 
@@ -27,8 +27,7 @@ body {
 
 .header div {
     padding-top: 15px;
-    margin-right: 20px;
-    float: right;
+   /* removed float elements */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
